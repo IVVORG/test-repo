@@ -25,5 +25,8 @@ func main() {
 	fmt.Println("Hello, Beer25")
 	fmt.Println("Hello, Beer26")
 	fmt.Println("Hello, Beer27")
+	fmt.Println("Hello, Beer28")
+	fmt.Println("Hello, Beer29")
+	fmt.Println("Hello, Beer30")
 }
       
