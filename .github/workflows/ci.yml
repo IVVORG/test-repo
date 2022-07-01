@@ -6,4 +6,3 @@ jobs:
     uses: untillpro/ci-action/.github/workflows/ci_reuse_go.yml@master
     secrets:
       reporeading_token: ${{ secrets.REPOREADING_TOKEN }}
-      codecov_token: ${{ secrets.CODECOV_TOKEN }}
